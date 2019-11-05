@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "portfolio",
-    "slug": "portfolio",
+    "name": "AdamGajzlerowicz",
+    "slug": "adamgajzlerowicz",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -24,10 +24,16 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hackermanconsulting.portfolio"
+    },
+    "android": {
+      "package": "com.hackermanconsulting.portfolio"
     },
     "packagerOpts": {
       "port": 8081
-    }
+    },
+    "description": "My portfolio",
+    "githubUrl": "https://github.com/adamgajzlerowicz/adam.gajzlerowicz"
   }
 }
