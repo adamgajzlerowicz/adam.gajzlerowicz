@@ -20,7 +20,6 @@
     "updates": {
       "enabled": true,
       "checkAutomatically": "ON_LOAD",
-
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
@@ -37,6 +36,9 @@
       "port": 8081
     },
     "description": "My portfolio",
-    "githubUrl": "https://github.com/adamgajzlerowicz/adam.gajzlerowicz"
-  }
+    "githubUrl": "https://github.com/adamgajzlerowicz/adam.gajzlerowicz",
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "AdamGajzlerowicz",
+  "name": "adamgajzlerowicz"
 }
