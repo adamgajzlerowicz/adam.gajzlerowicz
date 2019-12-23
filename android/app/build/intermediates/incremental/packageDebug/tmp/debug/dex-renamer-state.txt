@@ -1,4 +1,4 @@
-#Mon Dec 23 23:47:38 CET 2019
+#Tue Dec 24 00:18:06 CET 2019
 base.0=/Users/adam/projects/adam.gajzlerowicz/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.1=classes.dex
 renamed.1=classes2.dex

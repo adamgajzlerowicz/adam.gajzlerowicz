@@ -4,7 +4,7 @@
             "outputFile": "/Users/adam/projects/adam.gajzlerowicz/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/adam/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/1a31156e899580ca06b0cc8918a67843/res/values-v16/values-v16.xml",
+                    "source": "/Users/adam/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8aed5e962b28e63dc43d4164b742e4a0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
