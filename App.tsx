@@ -2,7 +2,8 @@ import React from 'react';
 import { StyleSheet, View, WebView } from 'react-native';
 import {Linking} from "expo";
 
-const uri = 'https://adamgajzlerowicz.github.io/portfolio';
+const uri = 'http://hackerman-consulting.com';
+
 
 export default function App() {
   return (
