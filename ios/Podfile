@@ -34,6 +34,14 @@ target 'adamgajzlerowicz' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
+  pod 'RNScreens', :path => '../node_modules/react-native-screens'
+
+  pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
+
+  pod 'CodePush', :path => '../node_modules/react-native-code-push'
+
   target 'adamgajzlerowiczTests' do
     inherit! :search_paths
     # Pods for testing
